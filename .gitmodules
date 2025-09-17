@@ -1,3 +1,6 @@
 [submodule "FrontEnd"]
 	path = FrontEnd
 	url = https://github.com/nishattasnim3646/Web-Engineering-Frontend.git
+[submodule "BackEnd"]
+	path = BackEnd
+	url = https://github.com/nishattasnim3646/Web-Engineering-Backend.git
