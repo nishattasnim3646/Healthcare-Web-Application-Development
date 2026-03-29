@@ -3,5 +3,5 @@
 	url = https://github.com/Chandrika002/Healthcare-Backend
 [submodule "Frontend"]
 	path = Frontend
-	url = https://github.com/Chandrika002/Healthcare-Frontend
+	url = https://github.com/nishattasnim3646/Healthcare-Frontend.git
 
